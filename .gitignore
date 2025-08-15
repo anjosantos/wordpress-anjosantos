@@ -1,0 +1,6 @@
+.htaccess
+wp-config.php
+*.log
+
+APP-DATA.SQL
+APP-META.INI
